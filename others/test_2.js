@@ -1,0 +1,1 @@
+print("enter all the test score");
